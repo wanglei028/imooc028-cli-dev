@@ -1,2 +1,5 @@
 # dependencies
 /node_modules
+.vscode
+.idea
+packages/**/node_modules

@@ -1,7 +1,7 @@
 {
   "name": "imooc028-cli-dev",
   "version": "1.0.0",
-  "description": "",
+  "description": "imooc028 dev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/wanglei028/imooc028-cli-dev#readme",
   "devDependencies": {
-    "lerna": "^7.1.1"
+    "lerna": "^4.0.0"
   }
 }
